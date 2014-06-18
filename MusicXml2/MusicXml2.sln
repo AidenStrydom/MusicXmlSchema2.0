@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicXml2", "MusicXml2\MusicXml2.csproj", "{B44DE3F0-D31C-4699-A923-153370C0DBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicXmlTester", "MusicXmlTester\MusicXmlTester.csproj", "{CF3A7CA2-B0BB-4902-AC02-86958AB269DB}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44DE3F0-D31C-4699-A923-153370C0DBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44DE3F0-D31C-4699-A923-153370C0DBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44DE3F0-D31C-4699-A923-153370C0DBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44DE3F0-D31C-4699-A923-153370C0DBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3A7CA2-B0BB-4902-AC02-86958AB269DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3A7CA2-B0BB-4902-AC02-86958AB269DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3A7CA2-B0BB-4902-AC02-86958AB269DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3A7CA2-B0BB-4902-AC02-86958AB269DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
